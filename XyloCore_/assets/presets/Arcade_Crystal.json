@@ -1,0 +1,19 @@
+{
+  "name": "Arcade Crystal",
+  "gain": -6.8,
+  "tone": 0.78,
+  "hardness": 0.68,
+  "resonance": 0.64,
+  "damping": 0.22,
+  "air": 0.36,
+  "humanize": 0.15,
+  "width": 0.6,
+  "transient": 0.43,
+  "room": 0.24,
+  "material": 0.9,
+  "rollRate": 0.56,
+  "release": 0.45,
+  "shimmer": 0.8,
+  "octaveMix": 0.4,
+  "velocityCurve": 0.66
+}

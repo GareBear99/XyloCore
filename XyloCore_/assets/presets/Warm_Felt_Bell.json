@@ -1,0 +1,19 @@
+{
+  "name": "Warm Felt Bell",
+  "gain": -8.0,
+  "tone": 0.42,
+  "hardness": 0.15,
+  "resonance": 0.72,
+  "damping": 0.2,
+  "air": 0.12,
+  "humanize": 0.26,
+  "width": 0.2,
+  "transient": 0.1,
+  "room": 0.14,
+  "material": 0.09,
+  "rollRate": 0.28,
+  "release": 0.64,
+  "shimmer": 0.04,
+  "octaveMix": 0.09,
+  "velocityCurve": 0.44
+}

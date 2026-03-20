@@ -1,0 +1,19 @@
+{
+  "name": "Stage Attack",
+  "gain": -5.5,
+  "tone": 0.84,
+  "hardness": 0.94,
+  "resonance": 0.4,
+  "damping": 0.58,
+  "air": 0.26,
+  "humanize": 0.12,
+  "width": 0.32,
+  "transient": 0.91,
+  "room": 0.1,
+  "material": 0.28,
+  "rollRate": 0.48,
+  "release": 0.24,
+  "shimmer": 0.08,
+  "octaveMix": 0.12,
+  "velocityCurve": 0.74
+}

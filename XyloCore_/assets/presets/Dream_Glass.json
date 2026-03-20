@@ -1,0 +1,19 @@
+{
+  "name": "Dream Glass",
+  "gain": -8.0,
+  "tone": 0.69,
+  "hardness": 0.59,
+  "resonance": 0.67,
+  "damping": 0.18,
+  "air": 0.39,
+  "humanize": 0.17,
+  "width": 0.62,
+  "transient": 0.27,
+  "room": 0.36,
+  "material": 0.82,
+  "rollRate": 0.35,
+  "release": 0.58,
+  "shimmer": 0.72,
+  "octaveMix": 0.34,
+  "velocityCurve": 0.58
+}

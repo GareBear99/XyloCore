@@ -1,0 +1,19 @@
+{
+  "name": "Soft Mallets",
+  "gain": -7.0,
+  "tone": 0.44,
+  "hardness": 0.22,
+  "resonance": 0.63,
+  "damping": 0.26,
+  "air": 0.14,
+  "humanize": 0.22,
+  "width": 0.22,
+  "transient": 0.18,
+  "room": 0.1,
+  "material": 0.05,
+  "rollRate": 0.38,
+  "release": 0.42,
+  "shimmer": 0.06,
+  "octaveMix": 0.1,
+  "velocityCurve": 0.48
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Concert Natural",
+  "gain": -6.0,
+  "tone": 0.58,
+  "hardness": 0.48,
+  "resonance": 0.58,
+  "damping": 0.35,
+  "air": 0.18,
+  "humanize": 0.18,
+  "width": 0.28,
+  "transient": 0.32,
+  "room": 0.12,
+  "material": 0.15,
+  "rollRate": 0.4,
+  "release": 0.32,
+  "shimmer": 0.1,
+  "octaveMix": 0.12,
+  "velocityCurve": 0.55
+}

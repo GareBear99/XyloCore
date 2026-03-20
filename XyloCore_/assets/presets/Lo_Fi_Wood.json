@@ -1,0 +1,19 @@
+{
+  "name": "Lo Fi Wood",
+  "gain": -7.5,
+  "tone": 0.36,
+  "hardness": 0.3,
+  "resonance": 0.44,
+  "damping": 0.55,
+  "air": 0.08,
+  "humanize": 0.28,
+  "width": 0.18,
+  "transient": 0.2,
+  "room": 0.06,
+  "material": 0.0,
+  "rollRate": 0.33,
+  "release": 0.26,
+  "shimmer": 0.02,
+  "octaveMix": 0.08,
+  "velocityCurve": 0.4
+}

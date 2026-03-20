@@ -1,0 +1,19 @@
+{
+  "name": "Bright Soloist",
+  "gain": -6.0,
+  "tone": 0.76,
+  "hardness": 0.82,
+  "resonance": 0.46,
+  "damping": 0.44,
+  "air": 0.23,
+  "humanize": 0.14,
+  "width": 0.34,
+  "transient": 0.66,
+  "room": 0.14,
+  "material": 0.24,
+  "rollRate": 0.43,
+  "release": 0.34,
+  "shimmer": 0.16,
+  "octaveMix": 0.18,
+  "velocityCurve": 0.62
+}

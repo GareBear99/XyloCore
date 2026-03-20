@@ -1,0 +1,19 @@
+{
+  "name": "Noir Hall",
+  "gain": -7.0,
+  "tone": 0.52,
+  "hardness": 0.41,
+  "resonance": 0.61,
+  "damping": 0.23,
+  "air": 0.2,
+  "humanize": 0.2,
+  "width": 0.58,
+  "transient": 0.25,
+  "room": 0.42,
+  "material": 0.1,
+  "rollRate": 0.31,
+  "release": 0.62,
+  "shimmer": 0.18,
+  "octaveMix": 0.2,
+  "velocityCurve": 0.5
+}

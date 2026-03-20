@@ -1,0 +1,19 @@
+{
+  "name": "Trailer Spark",
+  "gain": -5.0,
+  "tone": 0.81,
+  "hardness": 0.9,
+  "resonance": 0.52,
+  "damping": 0.41,
+  "air": 0.34,
+  "humanize": 0.11,
+  "width": 0.55,
+  "transient": 0.82,
+  "room": 0.28,
+  "material": 0.42,
+  "rollRate": 0.5,
+  "release": 0.38,
+  "shimmer": 0.38,
+  "octaveMix": 0.26,
+  "velocityCurve": 0.7
+}
